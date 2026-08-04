@@ -24,14 +24,17 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=AYMANEFAKIHI&theme=highcontrast&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8B98A5&stroke=22D3EE&sideNums=E6EDF7&currStreakNum=E6EDF7&dayNums=E6EDF7" alt="GitHub streak">
 </p>
 
+<!-- ENABLE AFTER SETUP: self-host github-readme-stats (SETUP.md Phase 2),
+     replace STATS_INSTANCE below with your Vercel URL, then uncomment.
 <p align="center">
   <img width="49%" src="https://STATS_INSTANCE/api?username=AYMANEFAKIHI&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7&icon_color=10B981&ring_color=A78BFA" alt="GitHub stats">
   <img width="49%" src="https://STATS_INSTANCE/api/top-langs/?username=AYMANEFAKIHI&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7" alt="Top languages">
 </p>
+-->
 
 <!-- ===================== PHASE 3 — SNAKE ====================== -->
 <!-- Add ONLY after the snake.yml Action runs green (the `output` branch does
-     not exist before the first successful run). -->
+     not exist before the first successful run. ENABLE AFTER the Action runs green:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AYMANEFAKIHI/AYMANEFAKIHI/output/snake-dark.svg">
@@ -39,6 +42,7 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/AYMANEFAKIHI/AYMANEFAKIHI/output/snake-dark.svg" width="100%">
   </picture>
 </p>
+-->
 
 <!-- ===================== PHASE 4 — BADGES ===================== -->
 <!-- for-the-badge, custom bg 0A101F. LinkedIn uses brand blue 0A66C2 because
