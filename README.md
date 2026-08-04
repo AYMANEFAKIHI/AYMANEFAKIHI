@@ -24,13 +24,11 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=AYMANEFAKIHI&theme=highcontrast&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8B98A5&stroke=22D3EE&sideNums=E6EDF7&currStreakNum=E6EDF7&dayNums=E6EDF7" alt="GitHub streak">
 </p>
 
-<!-- Public instance is currently down (503). ENABLE after self-hosting on Vercel
-     (SETUP.md Phase 2): replace HOST with your Vercel URL, then uncomment.
+<!-- Self-hosted github-readme-stats instance (reliable, not rate-limited). -->
 <p align="center">
-  <img width="49%" src="https://HOST/api?username=AYMANEFAKIHI&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7&icon_color=10B981&ring_color=A78BFA" alt="GitHub stats">
-  <img width="49%" src="https://HOST/api/top-langs/?username=AYMANEFAKIHI&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7" alt="Top languages">
+  <img width="49%" src="https://github-readme-stats-five-psi-78.vercel.app/api?username=AYMANEFAKIHI&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7&icon_color=10B981&ring_color=A78BFA" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-stats-five-psi-78.vercel.app/api/top-langs/?username=AYMANEFAKIHI&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E6EDF7" alt="Top languages">
 </p>
--->
 
 <!-- ===================== PHASE 3 — SNAKE ====================== -->
 <!-- Add ONLY after the snake.yml Action runs green (the `output` branch does
